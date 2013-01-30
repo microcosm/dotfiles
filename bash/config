@@ -31,5 +31,5 @@ On_White='\e[47m'       # White
 
 NC="\e[m"               # Color Reset
 
-PS1="\[$BRed\]\u:\w \$(vcprompt)\[$NC\] \n➘ "
+PS1="\[$Blue\]\u:\w \[$Purple\]\$(vcprompt)\[$NC\] \n➘ "
 
