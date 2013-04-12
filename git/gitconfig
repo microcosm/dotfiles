@@ -5,6 +5,7 @@ br = branch
 co = checkout
 df = diff
 lg = log -p
+pr = pull --rebase
 [user]
   name = Andrew McWilliams
   email = andy@jahya.net
